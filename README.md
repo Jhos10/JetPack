@@ -93,9 +93,3 @@ Este repositorio contiene distintos proyectos desarrollados como práctica y apr
 
 ---
 
-# 📸 Capturas de Pantalla
-
-> Aquí puedes agregar imágenes o GIFs de tus aplicaciones.
-
-```md
-![App Screenshot](ruta-imagen)
