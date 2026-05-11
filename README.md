@@ -37,9 +37,8 @@ Aplicación móvil para consultar el clima en tiempo real utilizando APIs extern
 
 ### ✨ Características
 - Consulta de temperatura actual
-- Pronóstico del clima
 - Interfaz moderna con Compose
-- Manejo de estados y navegación
+
 
 ---
 
@@ -69,10 +68,9 @@ Aplicación para gestionar tareas diarias de forma sencilla.
 Aplicación para visualizar recetas de cocina organizadas por categorías.
 
 ### ✨ Características
-- Listado de recetas
-- Vista detallada
-- Imágenes dinámicas
-- Navegación entre pantallas
+- Utilizacion de camara.
+- Conexión con la API de gemini
+- Generación de recetas
 
 ---
 
